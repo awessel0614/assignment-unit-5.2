@@ -1,3 +1,28 @@
-header {
-    color: purple;
+
+
+.header-content {
+
+    background-color: darkolivegreen;
+    color: lightgreen;
+    text-align: center;
+
+}
+
+.center {
+
+    background-color: lightgrey;
+    padding: 1em;
+}
+
+.whole-page {
+
+    background-image: url("record.png");
+    background-repeat: repeat;
+
+}
+
+body {
+
+    margin: 0px; 
+    
 }
